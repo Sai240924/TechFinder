@@ -87,7 +87,12 @@ This will start the Vite development server, which proxies API requests to the b
 - Use the frontend app normally; API requests to `/api` will be proxied to the backend.
 
 ---
+## Preview
 
+https://github.com/user-attachments/assets/02e77015-c38e-4a42-8ce0-2d15aaa5121d
+
+
+---
 ## Notes
 
 - Make sure MongoDB is running and accessible via the connection string.
